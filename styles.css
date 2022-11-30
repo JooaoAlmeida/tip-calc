@@ -19,6 +19,9 @@ html {
     margin: 0;
     padding-bottom: 3rem;
   }
+  h3{
+    text-align: center;
+  }
   
   section {
     background-color: white;
